@@ -31,7 +31,8 @@ switch(randomNumber){
 }
 
 
-console.log(eightBall)       
+console.log(eightBall)
+console.log(randomNumber)  
 
 
    
